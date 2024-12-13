@@ -1,0 +1,18 @@
+/*first element and second element combined items*/
+.first,
+.second {
+    font-size: 28px;
+    font-family: helvetica, times new roman, sans-serif;
+}
+
+/*unique to first element*/
+
+.first {
+    background-color: black;
+    color: white;
+}
+/*unique to second element*/
+
+.second {
+    background-color: yellow;
+}
